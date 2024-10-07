@@ -13,8 +13,6 @@ function App(props) {
   );
 }
 
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 function ref() {
   root.render(<App/>);
